@@ -1,5 +1,5 @@
 # TahraouiMustapha
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Full-Stack Developer | Node.js & React | Building scalable web apps</h1>
 
 <p align="left">
 My name is Mustapha and I'm a full-stack web developer from Algeria 🇩🇿
